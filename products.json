@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" Karambit | Doppler Sapphire",
+        "price": 12000,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name":" Navaja Knife | Doppler Sapphire",
+        "price": 900,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" AK-47 | GOLD Arabesque",
+        "price": 3500,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" Bowie Knife | Doppler Phase 2",
+        "price": 500,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name":" M9 Bayonet | Black Laminate",
+        "price": 800,
+        "image": "image/5.png"
+    },
+    {
+        "id": 6,
+        "name":" AWP | Dragon Lore",
+        "price": 13400,
+        "image": "image/6.png"
+    },
+    {
+        "id": 7,
+        "name":" Specialist Gloves | Fade",
+        "price": 899,
+        "image": "image/7.png"
+    },
+    {
+        "id": 8,
+        "name":" Titan Holo Katowice 2014",
+        "price": 89000,
+        "image": "image/8.png"
+    }
+
+]
